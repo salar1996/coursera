@@ -1,0 +1,54 @@
+
+body{
+    font-family: 'Oxygen', sans-serif;
+}
+
+nav{
+    background-color:skyblue;
+    border: 2px solid black;
+}
+nav#nav-menu{
+    padding-bottom: 0;
+}
+
+div#header-full{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+div#header-full a, div#header-full button{
+    margin: 15px;
+}
+
+hr{
+    width: 80%;
+    margin: -5px auto;
+}
+
+
+nav li a{
+    padding-left: 20px;
+}
+
+
+
+#navbarNav{
+    background-color: aliceblue;
+    width: 100%;
+}
+
+
+#our-menu{
+    margin: 15px auto 25px;
+}
+
+div.box{
+    background-color: aquamarine;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+
+div.box p{
+    text-align: justify;
+}
